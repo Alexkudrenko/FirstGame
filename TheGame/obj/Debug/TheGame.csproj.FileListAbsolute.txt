@@ -1,0 +1,11 @@
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\bin\Debug\TheGame.exe.config
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\bin\Debug\TheGame.exe
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\bin\Debug\TheGame.pdb
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.GameForm.resources
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.NextLevelForm.resources
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.Properties.Resources.resources
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.StartForm.resources
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.csproj.GenerateResource.Cache
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.exe
+d:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.pdb
+D:\Dropbox\Stepfiles\GDI+\HW\EXAM\TheGame\TheGame\obj\Debug\TheGame.csprojResolveAssemblyReference.cache
